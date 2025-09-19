@@ -254,18 +254,9 @@ The API uses consistent error response format:
 ### Available Scripts
 - `npm start` - Start the server with nodemon
 - `npm run dev` - Development mode with auto-restart
-- `npm test` - Run tests (not implemented)
 
 ### Environment Variables
 All environment variables are documented in `.env.example`. Never commit the actual `.env` file to version control.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## License
 
